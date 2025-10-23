@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Resume Creator",
+  "description": "An intelligent resume builder that leverages the Gemini API to craft a professional, well-formatted resume based on your personal information, experience, and skills.",
+  "requestFramePermissions": []
+}
